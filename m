@@ -1,0 +1,2 @@
+Can you make the size of each node proportional to its weighted degree? This might be useful since this network is a lot larger than the one you visualized before.
+Among those edges with increased (or decreased) weights, what fraction of them are connecting to the visual/fronto-parietal/default mode region? Can you generate some plots to visualize these fractions?
